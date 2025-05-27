@@ -1,13 +1,13 @@
 # ChatGPT 中文版：无需注册、无限制使用ChatGPT教程
 
->更新时间: 2025-03-16
+>更新时间: 2025-05-27
 
 **想在国内玩转ChatGPT中文版？无需翻墙也能体验GPT的强大功能！**  
 
 这篇指南就是你的ChatGPT入门宝典，不管你是想随便聊聊，还是有专业需求，我都会手把手教你怎么用上ChatGPT中文版。还整理了国内好用的镜像网站和官方教程，无需注册，省心又高效！
 
-ChatGPT中文版入口：[https://chat.yixiaai.com](https://chat.yixiaai.com)  
-ChatGPT镜像网站：[https://chat.lify.vip](https://chat.lify.vip)  
+ChatGPT中文版入口：[https://xsimplechat.com](https://xsimplechat.com)  
+ChatGPT镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)  
 
 ---
 
@@ -39,8 +39,8 @@ ChatGPT镜像网站：[https://chat.lify.vip](https://chat.lify.vip)
 
 | 镜像站点      | 地址                                           | 支持版本        | 免费额度 | 注册方式    | 稳定性 | 功能亮点 |
 |---------------|------------------------------------------------|----------------|----------|------------|--------|----------|
-| **Lify AI**    | [https://chat.lify.vip](https://chat.lify.vip) | ChatGPT、Claude、Midjourney、DeepSeek | 有       | 无需注册   | 高     | AI聊天，AI对话、AI绘图、AI知识库等功能 |
-| **一下 AI**     | [https://chat.yixiaai.com](https://chat.yixiaai.com) | GPT-4, GPT-o1、GPT-o3  | 有       | 无需注册   | 高     | 对话聊天、AI翻译、AI绘画 |
+| **Lify AI**    | [https://chat.lanjing.pro](https://chat.lanjing.pro) | ChatGPT、Claude、Midjourney、DeepSeek | 有       | 无需注册   | 高     | AI聊天，AI对话、AI绘图、AI知识库等功能 |
+| **一下 AI**     | [https://xsimplechat.com](https://xsimplechat.com) | GPT-4, GPT-o1、GPT-o3  | 有       | 无需注册   | 高     | 对话聊天、AI翻译、AI绘画 |
 | **GPT Chinese**   | [https://chatgpt-chinese.com](https://chatgpt-chinese.com) | GPT-4, GPT-3.5 | 有       | 邮箱注册   | 高     | 速度快 |
 | **蓝鲸 GPT**   | [https://www.lanjing.ai](https://www.lanjing.ai) | GPT3.4、GTP 4.0、GPT o1、GPT o3        | 有       | 无需注册   | 中     | 操作简单 |
 
@@ -63,7 +63,7 @@ ChatGPT镜像网站：[https://chat.lify.vip](https://chat.lify.vip)
 ## 怎么快速玩转ChatGPT中文版
 
 ### **镜像网站上手教程**
-1. **挑个网站**：比如[https://chat.lify.vip](https://chat.lify.vip)。  
+1. **挑个网站**：比如[https://chat.lanjing.pro](https://chat.lanjing.pro)。  
 2. **注册或直接开聊**：  
    - 邮箱注册：填个邮箱和密码，几秒搞定。  
    - 免注册：直接输入问题就能用。  
